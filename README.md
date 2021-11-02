@@ -10,3 +10,6 @@ It's the repo for NSCSCC2021 NWPU-2 Team.(some of belows are incoming casuse i h
 **Presentation**  if you don't want to see the code , you can see this folder.
 
 **LICENSE** if you want to use our codes, please see the license first.
+
+## Gitee
+For detail info about our work,please visit Gitee https://gitee.com/seddon2001/genshin-cpu
