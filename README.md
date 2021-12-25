@@ -12,4 +12,4 @@ It's the repo for NSCSCC2021 NWPU Second Team.
 **LICENSE** if you would like to use our codes, please see the license first.
 
 ## Gitee
-For details about our work,please visit https://gitee.com/seddon2001/genshin-cpu
+For more details about our work,please visit https://gitee.com/seddon2001/genshin-cpu
