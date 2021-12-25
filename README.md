@@ -1,5 +1,6 @@
 # GenshinCPU
-It's the repo for NSCSCC2021 NWPU Second Team.
+This repo contains our CPU design(GenshinCPU) and project implementation for NSCSCC2021 competition. 
+And we won the first prize in the finals.
 
 **nscscc2021_group_qualifier_submission** folder has the code and projects(function , performance, system_test) if you have vivado , I'm sure you can open and run it. If you just want the bitstream, you can also find them in the **result** folder.
 
