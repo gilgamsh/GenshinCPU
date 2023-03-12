@@ -1,4 +1,6 @@
 # GenshinCPU
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gilgamsh.GenshinCPU)
+
 This repo contains our CPU design(GenshinCPU) and project implementation for NSCSCC2021 competition. 
 And we won the first prize in the finals.
 
